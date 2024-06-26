@@ -10,6 +10,6 @@ plotly
 SimpleITK 
 nibabel
 scikit-learn
-scipy==1.13.1 
+scipy==1.13.0
 osqp
 
